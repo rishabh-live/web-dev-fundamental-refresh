@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.knife-look-gradient {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(45deg, #f10707 20%, #001aff 20%, transparent), #001aff repeating-linear-gradient(-45deg, #001aff, #02ec8a 1%, #001aff 5%);
+}
+/*# sourceMappingURL=style.css.map */
